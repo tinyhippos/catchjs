@@ -1,0 +1,17 @@
+{
+  "name": "catchjs",
+  "version": "0.1.0",
+  "description": "catches exceptions, period",
+  "homepage": "http://github.com/tinyhippos/catchjs",
+  "author": "tinyHippos",
+  "contributors": [{
+    "name": "Brent Lintner",
+    "email": "brent@tinyhippos.com",
+    "url": "http://github.com/brentlintner"
+  }],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/tinyhippos/catchjs/blob/master/LICENSE"
+  }],
+  "main": "./lib/catchjs.js"
+}
